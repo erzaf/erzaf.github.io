@@ -1,0 +1,9 @@
+img[src*="#center"] { 
+    display: block;
+    margin: auto;
+    width: 650px;
+}
+
+p .info {
+    padding-left: 80%;
+}
